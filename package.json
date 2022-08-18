@@ -1,0 +1,30 @@
+{
+  "name": "realestate_service",
+  "version": "1.0.0",
+  "description": "Design a application for the real estate related service agency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "realestate_service"
+  },
+  "keywords": [
+    "application-realestate",
+    "real-estate",
+    "website-real-estate"
+  ],
+  "author": "atikur rahman",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.2",
+    "autoprefixer": "^10.4.8",
+    "bootstrap": "^5.2.0",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0"
+  }
+}
